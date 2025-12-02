@@ -1,4 +1,4 @@
-# Guilherme de Oliveira
+# Guilherme Pontes
 
 > Estudante de Sistemas de Informação pelo Instituto Federal de Alagoas (IFAL).
 
