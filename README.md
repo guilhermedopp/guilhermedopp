@@ -11,6 +11,10 @@ Atualmente, meus estudos estão divididos entre **Desenvolvimento Web** (Back-en
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+### 📊 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedopp&layout=compact&theme=dracula&hide_border=true)
+
 ### 📊 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermedopp&theme=dracula&show_icons=true&hide_border=true)
