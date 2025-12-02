@@ -13,10 +13,8 @@ Atualmente, meus estudos estão divididos entre **Desenvolvimento Web** (Back-en
 
 ### 📊 Estatísticas
 
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermedopp&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedopp&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermedopp&theme=dracula&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedopp&layout=compact&theme=dracula&hide_border=true)
 ---
 
 <div align="left">
