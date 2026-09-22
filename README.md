@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=180&section=header&text=Guilherme%20Dopp&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20Pesquisa%20PIBIC%2FCNPq%20%E2%80%A2%20Dev&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=180&section=header&text=Guilherme%20Pontes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Sistemas%20de%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20Pesquisa%20PIBIC%2FCNPq%20%E2%80%A2%20Dev&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=560&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%40+IFAL;Bolsista+PIBIC%2FCNPq+no+INPE;Analisando+s%C3%A9ries+temporais+de+sa%C3%BAde+p%C3%BAblica;Construindo+o+Rastria+%F0%9F%9A%80" alt="Typing SVG" />
