@@ -60,34 +60,44 @@ guilherme.status()
 
 ### Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/Dom1ng0s/RastrIA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dom1ng0s&repo=RastrIA&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=333333&icon_color=0969DA&border_color=0969DA" />
-</a>
-<a href="https://guilhermedopp.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermedopp&repo=guilhermedopp.github.io&theme=default&bg_color=FFFFFF&title_color=0969DA&text_color=333333&icon_color=0969DA&border_color=0969DA" />
-</a>
-
-<br><br>
-
 <table>
 <tr>
-<td width="100%">
+<td width="33%" valign="top">
 
-**📊 Pipeline PIBIC/DATASUS — Internações Hospitalares (Botucatu/SP)**
+**🩺 Rastria**
+<br><br>
+Plataforma de saúde digital submetida ao Programa Centelha 3, com a PMAL como parceira institucional do piloto.
+<br><br>
+<img src="https://img.shields.io/github/stars/Dom1ng0s/RastrIA?style=flat-square&color=0969DA&label=stars" />
+<img src="https://img.shields.io/github/last-commit/Dom1ng0s/RastrIA?style=flat-square&color=0969DA&label=último%20commit" />
 <br>
-Pipeline próprio de extração + tratamento de dados do SIH/DATASUS e dashboard interativo com Mann-Kendall para 3 grupos de doenças (2015–2025). Resultado: tendência crescente significativa em internações respiratórias (+56,8/ano). Projeto de pesquisa, ainda sem repositório público.
+<a href="https://github.com/Dom1ng0s/RastrIA"><img src="https://img.shields.io/badge/ver_repositório-0969DA?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+**📊 Pipeline PIBIC/DATASUS**
+<br><br>
+Extração + tratamento de dados do SIH/DATASUS (2015–2025) e dashboard com Mann-Kendall. Tendência significativa em internações respiratórias (+56,8/ano). Projeto de pesquisa, sem repositório público ainda.
 <br><br>
 <img src="https://img.shields.io/badge/Streamlit-0969DA?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-0969DA?style=flat-square&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Mann--Kendall-0969DA?style=flat-square" />
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 Portfólio**
+<br><br>
+Site pessoal com o hero animado exibindo dados de tendência do meu próprio projeto PIBIC.
+<br><br>
+<img src="https://img.shields.io/github/last-commit/guilhermedopp/guilhermedopp.github.io?style=flat-square&color=0969DA&label=último%20commit" />
+<img src="https://img.shields.io/github/languages/top/guilhermedopp/guilhermedopp.github.io?style=flat-square&color=0969DA" />
+<br>
+<a href="https://guilhermedopp.github.io"><img src="https://img.shields.io/badge/ver_site-0969DA?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <br>
 
@@ -110,11 +120,13 @@ Pipeline próprio de extração + tratamento de dados do SIH/DATASUS e dashboard
 
 <br>
 
-### Troféus
+### Curiosidades
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=guilhermedopp&theme=flat&column=6&margin-w=8&margin-h=8&no-frame=true&title.color=0969DA&text.color=333333&icon.color=0969DA&background=FFFFFF" />
+<img src="https://img.shields.io/github/followers/guilhermedopp?style=for-the-badge&logo=github&color=0969DA&labelColor=FFFFFF" />
+<img src="https://img.shields.io/badge/tendências_significativas_achadas-1_(p=0.087)-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=0969DA" />
+<img src="https://img.shields.io/badge/bugs_de_lib_contornados-1_(valeu,_pysus)-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=0969DA" />
 
 </div>
 
